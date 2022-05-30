@@ -1,24 +1,24 @@
-# Проект: Mesto-React
+# Project: Mesto-React
 
 <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 
-**Описание**
+**Description**
 
-Данный проект является портированной на React.js версией учебного проекта [Mesto](https://sholq.github.io/mesto/). Приложение реализовано на функциональных компонентах и хуках в контексте "текушего пользователя".
+It's React version of the training project [Mesto](https://sholq.github.io/mesto/). The application is implemented on functional components and hooks in the context of the "current user".
 
-**Технологии**
+**Technology**
 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
 **GitPages**
 
-[Ссылка](https://sholq.github.io/mesto-react/)
+[Link](https://sholq.github.io/mesto-react/)
 
-## Установка
+## Installation
 
 ### `npm run i-all`
 
-## Использование
+## Usage
 
 In the project directory, you can run:
 
